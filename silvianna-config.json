@@ -1,0 +1,37 @@
+{
+  "downtime": {
+    "anilistIsDown": false
+  },
+  "latestVersion": {
+    "shortVersion": "1.4.0",
+    "bundleVersion": "29"
+  },
+  "seasonInfo": {
+    "availableSeasonsInYear": [
+      {
+        "year": 2021,
+        "season": "SPRING"
+      },
+      {
+        "year": 2021,
+        "season": "SUMMER"
+      },
+      {
+        "year": 2021,
+        "season": "FALL"
+      },
+      {
+        "year": 2022,
+        "season": "WINTER"
+      }
+    ],
+    "currentSeason": {
+      "year": 2021,
+      "season": "SPRING"
+    },
+    "lastSeason": {
+      "year": 2021,
+      "season": "WINTER"
+    }
+  }
+}
