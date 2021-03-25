@@ -10,6 +10,10 @@
     "availableSeasonsInYear": [
       {
         "year": 2021,
+        "season": "WINTER"
+      },
+      {
+        "year": 2021,
         "season": "SPRING"
       },
       {
@@ -19,10 +23,6 @@
       {
         "year": 2021,
         "season": "FALL"
-      },
-      {
-        "year": 2022,
-        "season": "WINTER"
       }
     ],
     "currentSeason": {
