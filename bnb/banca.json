@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5F8BDF0B-0D07-4D5A-B2C3-A4928C7717C5",
+    "title": "Personas Naturales",
+    "items": [
+      {
+        "body": "Crea tu cuenta de ahorro totalmente digital.",
+        "id": "68FE9CBD-BEAB-49E0-A6E8-B9CC5F98BE92",
+        "title": "Cuentas de ahorro",
+        "emoji": "😎"
+      },
+      {
+        "body": "Ahorra a largo plazo con depositos a plazo fijo de alto rendimiento.",
+        "id": "C5D82D5E-3D3E-4B54-9322-09F179210DB5",
+        "title": "DPF",
+        "emoji": "🙄"
+      },
+      {
+        "body": "Saca tu tarjeta de crédito a tasas preferenciales.",
+        "id": "C8069426-5CB0-4194-AC0E-D335077C6151",
+        "title": "Tarjetas de crédito",
+        "emoji": "🤠"
+      }
+    ]
+  }
+  ]
