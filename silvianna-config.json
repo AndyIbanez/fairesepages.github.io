@@ -9,29 +9,29 @@
   "seasonInfo": {
     "availableSeasonsInYear": [
       {
-        "year": 2021,
+        "year": 2022,
         "season": "WINTER"
       },
       {
-        "year": 2021,
+        "year": 2022,
         "season": "SPRING"
       },
       {
-        "year": 2021,
+        "year": 2022,
         "season": "SUMMER"
       },
       {
-        "year": 2021,
+        "year": 2022,
         "season": "FALL"
       }
     ],
     "currentSeason": {
-      "year": 2021,
-      "season": "FALL"
+      "year": 2022,
+      "season": "WINTER"
     },
     "lastSeason": {
       "year": 2021,
-      "season": "SUMMER"
+      "season": "FALL"
     }
   }
 }
