@@ -27,11 +27,11 @@
     ],
     "currentSeason": {
       "year": 2023,
-      "season": "WINTER"
+      "season": "SUMMER"
     },
     "lastSeason": {
-      "year": 2022,
-      "season": "FALL"
+      "year": 2023,
+      "season": "SPRING"
     }
   }
 }
