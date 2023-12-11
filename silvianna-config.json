@@ -9,29 +9,29 @@
   "seasonInfo": {
     "availableSeasonsInYear": [
       {
-        "year": 2023,
+        "year": 2024,
         "season": "WINTER"
       },
       {
-        "year": 2023,
+        "year": 2024,
         "season": "SPRING"
       },
       {
-        "year": 2023,
+        "year": 2024,
         "season": "SUMMER"
       },
       {
-        "year": 2023,
+        "year": 2024,
         "season": "FALL"
       }
     ],
     "currentSeason": {
-      "year": 2023,
-      "season": "FALL"
+      "year": 2024,
+      "season": "WINTER"
     },
     "lastSeason": {
       "year": 2023,
-      "season": "SUMMER"
+      "season": "FALL"
     }
   }
 }
